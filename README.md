@@ -16,13 +16,15 @@ We created a website as well as a mobile app to cater to all users across platfo
 <img src="unknown (1).png" height="500" width="920">
 
 ### Technologies and Languages Used:
-- Microsoft Azure Cognitive Services
-- Android Studio
-- JSBarcode
-- Barcode.js
+
 - Java
 - Javascript
 - HTML, CSS
+- JSBarcode
+- Barcode.js
+- Microsoft Azure Cognitive Services
+- Android Studio
+
 
 #### Libraries ####
 
