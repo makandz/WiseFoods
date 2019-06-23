@@ -1,0 +1,61 @@
+<html>
+
+{% include 'models/head.twig' %}
+
+<body>
+
+<div class="text-center mt-4">
+    <h1><b>Your Items</b></h1>
+    <h4>A collection of your items.</h4>
+    <div class="container text-align mt-4">
+        <div class="row" id="columns">
+            
+        </div>
+    </div>
+</div>
+
+{% include 'models/scripts.twig' %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+<script>
+
+var items = JSON.parse(localStorage.getItem("saved"));
+console.log(items);
+var toPrint = "";
+for (i in items) {
+    var Request = function(callback) {
+        var _temp = items[i][1];
+        jQuery.ajax({type: 'GET', url: "/get/" + items[i][0], timeout: 20000}).done(function(r) {
+            console.log(_temp);
+            callback({ status: JSON.parse(r).status, name: JSON.parse(r).name, image: JSON.parse(r).image, time: _temp });
+        }).fail(function() {
+            callback({});
+        });
+    }
+
+    Request(function(r) {
+        if (!r.status) return 0;
+        let left = "Expired!";
+        console.log(moment().unix(), r.time);
+        if ((r.time * 1E3) - moment().unix() > 0)
+            left = moment(r.time * 1E3).calendar();
+        toPrint += `
+            <div class="col-4">
+                <div class="card card-image" style="background-image: url(` + r.image + `);">
+                    <div class="text-white text-center align-items-center rgba-black-strong py-5 px-4">
+                        <div>
+                            <h5 class="pink-text"><i class="fas fa-chart-pie"></i> ` + left +`</h5>
+                            <h3 class="card-title pt-2"><strong>` + r.name + `</strong></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+        $("#columns").html(toPrint);
+    });
+}
+
+</script>
+
+</body>
+
+</html>

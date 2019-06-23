@@ -1,0 +1,100 @@
+<html>
+
+{% include 'models/head.twig' %}
+
+<body>
+
+<div class="text-center mt-4">
+    <h1><b>Scan an Item</b></h1>
+    <h4>This will be locally stored.</h4>
+    <button class="btn blue-gradient mt-3 white-text" data-target="livestream_scanner">Record</button>
+    <center>
+        <div class="small-width text-center">
+            <div class="md-form">
+                <input type="text" id="datepicker" class="form-control">
+                <label for="datepicker">Expiry Date</label>
+            </div>
+        </div>
+    </center>
+    <div class="text-center mt-5">
+        <div id="interactive" class="viewport"></div>
+    </div>
+</div>
+
+{% include 'models/scripts.twig' %}
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/0.12.1/quagga.min.js"></script>
+<script type="text/javascript">
+    $( "#datepicker" ).datepicker();
+    $(function() {
+        // Create the QuaggaJS config object for the live stream
+        var liveStreamConfig = {
+            inputStream: {
+                type: "LiveStream",
+                constraints: {
+                    width: {
+                        min: 640
+                    },
+                    height: {
+                        min: 480
+                    },
+                    aspectRatio: {
+                        min: 1,
+                        max: 100
+                    },
+                    facingMode: "environment" // or "user" for the front camera
+                }
+            },
+            locator: {
+                patchSize: "medium",
+                halfSample: true
+            },
+            numOfWorkers: (navigator.hardwareConcurrency ? navigator.hardwareConcurrency : 4),
+            decoder: {
+                "readers": [{
+                    "format": "ean_reader",
+                    "config": {}
+                }]
+            },
+            locate: true
+        };
+        // The fallback to the file API requires a different inputStream option. 
+        // The rest is the same 
+        var fileConfig = $.extend({},
+            liveStreamConfig, {
+                inputStream: {
+                    size: 800
+                }
+            }
+        );
+
+        // Once a barcode had been read successfully, stop quagga and 
+        // close the modal after a second to let the user notice where 
+        // the barcode had actually been found.
+        Quagga.onDetected(function(result) {
+            console.log("wtsdfx");
+            if (result.codeResult.code && $('#datepicker').val()) {
+                console.log(result.codeResult.code);
+                location.href = "/save/#" + result.codeResult.code + "-" + $("#datepicker").val();
+            }
+        });
+
+        $('document').ready(function() {
+            Quagga.init(
+                liveStreamConfig,
+                function(err) {
+                    if (err) {
+                        $('#livestream_scanner .modal-body .error').html('<div class="alert alert-danger"><strong><i class="fa fa-exclamation-triangle"></i> ' + err.name + '</strong>: ' + err.message + '</div>');
+                        Quagga.stop();
+                        return;
+                    }
+                    Quagga.start();
+                }
+            );
+        });
+    });
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+html, body, header {
+    height: 100%;
+}
+
+.view {
+    height: 94%;
+}
+
+.top_view {
+    margin-top: -10%;
+}

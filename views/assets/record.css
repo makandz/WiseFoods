@@ -1,0 +1,24 @@
+#interactive.viewport {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+#interactive.viewport>canvas,
+#interactive.viewport>video {
+    max-width: 20%;
+    width: 20%;
+}
+
+canvas.drawing,
+canvas.drawingBuffer {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.small-width {
+    width: 25%;
+}

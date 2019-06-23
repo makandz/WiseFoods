@@ -1,0 +1,640 @@
+{
+    "code":"0737628005000",
+    "status_verbose":"product found",
+    "product":{
+       "nutrition_data_prepared_per":"100g",
+       "ingredients_text_with_allergens_en":"Water, coconut milk, sugar, soybean oil, <span class=\"allergen\">peanut</span>, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime.",
+       "ingredients_original_tags":[
+          "en:water",
+          "en:coconut-milk",
+          "en:sugar",
+          "en:soy-oil",
+          "en:peanut",
+          "en:white sesame seed",
+          "en:tamarind paste",
+          "en:spice",
+          "en:including chili pepper",
+          "en:salt",
+          "en:modified-tapioca-starch",
+          "en:shallot",
+          "en:garlic",
+          "en:lemongrass",
+          "en:citric acid and kaffir lime",
+          "en:tamarind",
+          "en:water"
+       ],
+       "nucleotides_prev_tags":[
+ 
+       ],
+       "serving_size":"30 ml (2 Tbsp)",
+       "photographers_tags":[
+          "openfoodfacts-contributors"
+       ],
+       "languages_tags":[
+          "en:english",
+          "en:1"
+       ],
+       "last_image_t":1479907578,
+       "nutrient_levels_tags":[
+ 
+       ],
+       "fruits-vegetables-nuts_100g_estimate":0,
+       "languages_codes":{
+          "en":2
+       },
+       "countries_debug_tags":[
+ 
+       ],
+       "languages_hierarchy":[
+          "en:english"
+       ],
+       "nutrient_levels":{
+ 
+       },
+       "pnns_groups_2_tags":[
+          "unknown",
+          "missing-category"
+       ],
+       "amino_acids_tags":[
+ 
+       ],
+       "codes_tags":[
+          "code-13",
+          "0737628005000",
+          "073762800500x",
+          "07376280050xx",
+          "0737628005xxx",
+          "073762800xxxx",
+          "07376280xxxxx",
+          "0737628xxxxxx",
+          "073762xxxxxxx",
+          "07376xxxxxxxx",
+          "0737xxxxxxxxx",
+          "073xxxxxxxxxx",
+          "07xxxxxxxxxxx",
+          "0xxxxxxxxxxxx"
+       ],
+       "languages":{
+          "en:english":2
+       },
+       "countries":"United States",
+       "nutrition_grades_tags":[
+          "not-applicable"
+       ],
+       "additives_old_tags":[
+          "en:e330"
+       ],
+       "last_modified_by":"usda-ndb-import",
+       "ingredients_text":"Water, coconut milk, sugar, soybean oil, peanut, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime.",
+       "nutrition_score_debug":"no score when the product does not have a category",
+       "editors_tags":[
+          "twoflower",
+          "usda-ndb-import",
+          "openfoodfacts-contributors"
+       ],
+       "traces_hierarchy":[
+ 
+       ],
+       "lc":"en",
+       "checkers_tags":[
+ 
+       ],
+       "vitamins_tags":[
+ 
+       ],
+       "nutrition_data_per":"100g",
+       "allergens_hierarchy":[
+          "en:peanuts"
+       ],
+       "brands_tags":[
+          "simply-asia-foods-inc"
+       ],
+       "_id":"0737628005000",
+       "ingredients_text_en":"Water, coconut milk, sugar, soybean oil, peanut, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime.",
+       "ingredients_debug":[
+          "Water",
+          ",",
+          null,
+          null,
+          null,
+          " coconut milk",
+          ",",
+          null,
+          null,
+          null,
+          " sugar",
+          ",",
+          null,
+          null,
+          null,
+          " soybean oil",
+          ",",
+          null,
+          null,
+          null,
+          " peanut",
+          ",",
+          null,
+          null,
+          null,
+          " white sesame seed",
+          ",",
+          null,
+          null,
+          null,
+          " tamarind paste ",
+          "(",
+          "(",
+          null,
+          null,
+          "tamarind",
+          ",",
+          null,
+          null,
+          null,
+          " water)",
+          ",",
+          null,
+          null,
+          null,
+          " spices ",
+          "(",
+          "(",
+          null,
+          null,
+          "including chili pepper)",
+          ",",
+          null,
+          null,
+          null,
+          " salt",
+          ",",
+          null,
+          null,
+          null,
+          " modified tapioca starch",
+          ",",
+          null,
+          null,
+          null,
+          " shallot",
+          ",",
+          null,
+          null,
+          null,
+          " garlic",
+          ",",
+          null,
+          null,
+          null,
+          " lemongrass",
+          ",",
+          null,
+          null,
+          null,
+          " citric acid and kaffir lime."
+       ],
+       "countries_tags":[
+          "en:united-states"
+       ],
+       "pnns_groups_2":"unknown",
+       "ingredients_from_palm_oil_tags":[
+ 
+       ],
+       "product_name_en":"Asian Creations, Thai Kitchen, Peanut Satay Sauce",
+       "unknown_ingredients_n":4,
+       "states":"en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-to-be-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-to-be-completed, en:product-name-completed, en:photos-to-be-uploaded",
+       "interface_version_created":"import_us_ndb.pl - version 2017/03/04",
+       "informers_tags":[
+          "openfoodfacts-contributors",
+          "usda-ndb-import"
+       ],
+       "last_editor":"usda-ndb-import",
+       "ingredients_that_may_be_from_palm_oil_tags":[
+ 
+       ],
+       "additives_tags":[
+ 
+       ],
+       "product_name":"Asian Creations, Thai Kitchen, Peanut Satay Sauce",
+       "ingredients_that_may_be_from_palm_oil_n":0,
+       "ingredients_n_tags":[
+          "17",
+          "11-20"
+       ],
+       "nova_group_debug":"no nova group when the product does not have a category",
+       "pnns_groups_1_tags":[
+          "unknown",
+          "missing-category"
+       ],
+       "unknown_nutrients_tags":[
+ 
+       ],
+       "minerals_prev_tags":[
+ 
+       ],
+       "_keywords":[
+          "inc",
+          "creation",
+          "satay",
+          "asian",
+          "food",
+          "thai",
+          "peanut",
+          "simply",
+          "sauce",
+          "asia",
+          "kitchen"
+       ],
+       "additives_original_tags":[
+ 
+       ],
+       "allergens_from_ingredients":"peanut",
+       "states_tags":[
+          "en:to-be-completed",
+          "en:nutrition-facts-completed",
+          "en:ingredients-completed",
+          "en:expiration-date-to-be-completed",
+          "en:packaging-code-to-be-completed",
+          "en:characteristics-to-be-completed",
+          "en:categories-to-be-completed",
+          "en:brands-completed",
+          "en:packaging-to-be-completed",
+          "en:quantity-to-be-completed",
+          "en:product-name-completed",
+          "en:photos-to-be-uploaded"
+       ],
+       "nutriments":{
+          "cholesterol_100g":0,
+          "trans-fat_100g":0,
+          "cholesterol_serving":0,
+          "carbohydrates_unit":"g",
+          "cholesterol_unit":"mg",
+          "fiber_100g":0,
+          "vitamin-a_unit":"IU",
+          "iron_100g":0.0012,
+          "vitamin-c_value":0,
+          "calcium_value":67,
+          "fat_unit":"g",
+          "vitamin-c_serving":0,
+          "energy_100g":1117,
+          "vitamin-c":0,
+          "carbohydrates_serving":7,
+          "vitamin-a_100g":0.0003999,
+          "sugars_value":16.67,
+          "saturated-fat_value":8.33,
+          "carbohydrates_value":23.33,
+          "fat_serving":5,
+          "proteins":3.33,
+          "trans-fat_serving":0,
+          "sodium_serving":0.22,
+          "iron_serving":0.00036,
+          "energy":1117,
+          "salt_serving":0.559,
+          "sodium_value":733,
+          "fat":16.67,
+          "sugars_unit":"g",
+          "energy_value":267,
+          "fiber_serving":0,
+          "sugars_100g":16.67,
+          "trans-fat_value":0,
+          "vitamin-a_value":1333,
+          "saturated-fat":8.33,
+          "calcium":0.067,
+          "proteins_100g":3.33,
+          "trans-fat_unit":"g",
+          "proteins_unit":"g",
+          "sugars":16.67,
+          "energy_unit":"kcal",
+          "sugars_serving":5,
+          "sodium_100g":0.733,
+          "iron_value":1.2,
+          "sodium_unit":"mg",
+          "vitamin-a":0.0003999,
+          "trans-fat":0,
+          "fiber":0,
+          "cholesterol":0,
+          "salt_100g":1.86182,
+          "salt":1.86182,
+          "energy_serving":335,
+          "fiber_unit":"g",
+          "calcium_100g":0.067,
+          "calcium_serving":0.0201,
+          "proteins_value":3.33,
+          "cholesterol_value":0,
+          "sodium":0.733,
+          "fat_value":16.67,
+          "saturated-fat_unit":"g",
+          "saturated-fat_serving":2.5,
+          "vitamin-c_100g":0,
+          "vitamin-a_serving":0.00012,
+          "carbohydrates_100g":23.33,
+          "carbohydrates":23.33,
+          "fat_100g":16.67,
+          "calcium_unit":"mg",
+          "iron":0.0012,
+          "proteins_serving":0.999,
+          "fiber_value":0,
+          "iron_unit":"mg",
+          "saturated-fat_100g":8.33,
+          "vitamin-c_unit":"mg"
+       },
+       "sortkey":489144233,
+       "lang":"en",
+       "countries_lc":"en",
+       "ingredients_tags":[
+          "en:water",
+          "en:coconut-milk",
+          "en:fruit",
+          "en:coconut",
+          "en:sugar",
+          "en:soy-oil",
+          "en:oil",
+          "en:oil-and-vegetable-fat",
+          "en:vegetable-oil",
+          "en:peanut",
+          "en:nut",
+          "en:white-sesame-seed",
+          "en:tamarind-paste",
+          "en:spice",
+          "en:including-chili-pepper",
+          "en:salt",
+          "en:modified-tapioca-starch",
+          "en:starch",
+          "en:modified-starch",
+          "en:tapioca-starch",
+          "en:shallot",
+          "en:vegetable",
+          "en:garlic",
+          "en:lemongrass",
+          "en:herb",
+          "en:citric-acid-and-kaffir-lime",
+          "en:tamarind"
+       ],
+       "allergens":"",
+       "complete":0,
+       "traces_from_ingredients":"",
+       "brands_debug_tags":[
+ 
+       ],
+       "states_hierarchy":[
+          "en:to-be-completed",
+          "en:nutrition-facts-completed",
+          "en:ingredients-completed",
+          "en:expiration-date-to-be-completed",
+          "en:packaging-code-to-be-completed",
+          "en:characteristics-to-be-completed",
+          "en:categories-to-be-completed",
+          "en:brands-completed",
+          "en:packaging-to-be-completed",
+          "en:quantity-to-be-completed",
+          "en:product-name-completed",
+          "en:photos-to-be-uploaded"
+       ],
+       "ingredients_text_with_allergens":"Water, coconut milk, sugar, soybean oil, <span class=\"allergen\">peanut</span>, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime.",
+       "additives_prev_tags":[
+ 
+       ],
+       "code":"0737628005000",
+       "brands":"Simply Asia Foods  Inc.",
+       "additives_debug_tags":[
+ 
+       ],
+       "sources":[
+          {
+             "id":"usda-ndb",
+             "url":"https://api.nal.usda.gov/ndb/reports/?ndbno=45243659&type=f&format=json&api_key=DEMO_KEY",
+             "import_t":1489144233,
+             "fields":[
+                "product_name_en",
+                "brands",
+                "countries",
+                "serving_size",
+                "ingredients_text_en",
+                "nutrients.energy",
+                "nutrients.proteins",
+                "nutrients.fat",
+                "nutrients.carbohydrates",
+                "nutrients.fiber",
+                "nutrients.sugars",
+                "nutrients.calcium",
+                "nutrients.iron",
+                "nutrients.sodium",
+                "nutrients.vitamin-c",
+                "nutrients.vitamin-a",
+                "nutrients.saturated-fat",
+                "nutrients.trans-fat",
+                "nutrients.cholesterol"
+             ],
+             "images":[
+ 
+             ]
+          }
+       ],
+       "amino_acids_prev_tags":[
+ 
+       ],
+       "correctors_tags":[
+          "usda-ndb-import"
+       ],
+       "quality_tags":[
+          "serving-quantity-defined-but-quantity-undefined"
+       ],
+       "created_t":1489144233,
+       "pnns_groups_1":"unknown",
+       "allergens_tags":[
+          "en:peanuts"
+       ],
+       "nucleotides_tags":[
+ 
+       ],
+       "ingredients_n":"17",
+       "vitamins_prev_tags":[
+ 
+       ],
+       "additives":" [ water -> en:water  ]  [ coconut-milk -> en:coconut-milk  ]  [ milk -> en:milk  ]  [ sugar -> en:sugar  ]  [ soybean-oil -> en:soybean-oil  ]  [ oil -> en:oil  ]  [ peanut -> en:peanut  ]  [ white-sesame-seed -> en:white-sesame-seed  ]  [ sesame-seed -> en:sesame-seed  ]  [ seed -> en:seed  ]  [ tamarind-paste -> en:tamarind-paste  ]  [ paste -> en:paste  ]  [ tamarind -> en:tamarind  ]  [ water -> en:water  ]  [ spices -> en:spices  ]  [ including-chili-pepper -> en:including-chili-pepper  ]  [ chili-pepper -> en:chili-pepper  ]  [ pepper -> en:pepper  ]  [ salt -> en:salt  ]  [ modified-tapioca-starch -> en:modified-tapioca-starch  ]  [ tapioca-starch -> en:tapioca-starch  ]  [ starch -> en:starch  ]  [ shallot -> en:shallot  ]  [ garlic -> en:garlic  ]  [ lemongrass -> en:lemongrass  ]  [ citric-acid-and-kaffir-lime -> en:citric-acid-and-kaffir-lime  ]  [ acid-and-kaffir-lime -> en:acid-and-kaffir-lime  ]  [ and-kaffir-lime -> en:and-kaffir-lime  ]  [ kaffir-lime -> en:kaffir-lime  ]  [ lime -> en:lime  ] ",
+       "nova_group_tags":[
+          "not-applicable"
+       ],
+       "creator":"usda-ndb-import",
+       "additives_prev_n":0,
+       "ingredients_text_debug":"Water, coconut milk, sugar, soybean oil, peanut, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime.",
+       "id":"0737628005000",
+       "ingredients":[
+          {
+             "id":"en:water",
+             "rank":1,
+             "text":"Water"
+          },
+          {
+             "rank":2,
+             "id":"en:coconut-milk",
+             "text":"coconut milk"
+          },
+          {
+             "rank":3,
+             "id":"en:sugar",
+             "text":"sugar"
+          },
+          {
+             "text":"soybean oil",
+             "rank":4,
+             "id":"en:soy-oil"
+          },
+          {
+             "rank":5,
+             "id":"en:peanut",
+             "text":"peanut"
+          },
+          {
+             "rank":6,
+             "id":"en:white sesame seed",
+             "text":"white sesame seed"
+          },
+          {
+             "rank":7,
+             "id":"en:tamarind paste",
+             "text":"tamarind paste"
+          },
+          {
+             "text":"spices",
+             "id":"en:spice",
+             "rank":8
+          },
+          {
+             "id":"en:including chili pepper",
+             "rank":9,
+             "text":"including chili pepper"
+          },
+          {
+             "id":"en:salt",
+             "rank":10,
+             "text":"salt"
+          },
+          {
+             "text":"modified tapioca starch",
+             "id":"en:modified-tapioca-starch",
+             "rank":11
+          },
+          {
+             "rank":12,
+             "id":"en:shallot",
+             "text":"shallot"
+          },
+          {
+             "text":"garlic",
+             "rank":13,
+             "id":"en:garlic"
+          },
+          {
+             "text":"lemongrass",
+             "rank":14,
+             "id":"en:lemongrass"
+          },
+          {
+             "id":"en:citric acid and kaffir lime",
+             "rank":15,
+             "text":"citric acid and kaffir lime"
+          },
+          {
+             "text":"tamarind",
+             "id":"en:tamarind"
+          },
+          {
+             "id":"en:water",
+             "text":"water"
+          }
+       ],
+       "last_image_dates_tags":[
+          "2016-11-23",
+          "2016-11",
+          "2016"
+       ],
+       "images":{
+ 
+       },
+       "ingredients_ids_debug":[
+          "water",
+          "coconut-milk",
+          "sugar",
+          "soybean-oil",
+          "peanut",
+          "white-sesame-seed",
+          "tamarind-paste",
+          "tamarind",
+          "water",
+          "spices",
+          "including-chili-pepper",
+          "salt",
+          "modified-tapioca-starch",
+          "shallot",
+          "garlic",
+          "lemongrass",
+          "citric-acid-and-kaffir-lime"
+       ],
+       "ingredients_from_palm_oil_n":0,
+       "additives_n":0,
+       "misc_tags":[
+          "en:nutriscore-not-computed"
+       ],
+       "last_edit_dates_tags":[
+          "2017-03-10",
+          "2017-03",
+          "2017"
+       ],
+       "additives_old_n":1,
+       "minerals_tags":[
+ 
+       ],
+       "rev":4,
+       "last_modified_t":1489144233,
+       "additives_prev":" [ water -> en:water  ]  [ coconut-milk -> en:coconut-milk  ]  [ milk -> en:milk  ]  [ sugar -> en:sugar  ]  [ soybean-oil -> en:soybean-oil  ]  [ oil -> en:oil  ]  [ peanut -> en:peanut  ]  [ white-sesame-seed -> en:white-sesame-seed  ]  [ sesame-seed -> en:sesame-seed  ]  [ seed -> en:seed  ]  [ tamarind-paste -> en:tamarind-paste  ]  [ paste -> en:paste  ]  [ tamarind -> en:tamarind  ]  [ water -> en:water  ]  [ spices -> en:spices  ]  [ including-chili-pepper -> en:including-chili-pepper  ]  [ chili-pepper -> en:chili-pepper  ]  [ pepper -> en:pepper  ]  [ salt -> en:salt  ]  [ modified-tapioca-starch -> en:modified-tapioca-starch  ]  [ tapioca-starch -> en:tapioca-starch  ]  [ starch -> en:starch  ]  [ shallot -> en:shallot  ]  [ garlic -> en:garlic  ]  [ lemongrass -> en:lemongrass  ]  [ citric-acid-and-kaffir-lime -> en:citric-acid-and-kaffir-lime  ]  [ acid-and-kaffir-lime -> en:acid-and-kaffir-lime  ]  [ and-kaffir-lime -> en:and-kaffir-lime  ]  [ kaffir-lime -> en:kaffir-lime  ]  [ lime -> en:lime  ] ",
+       "ingredients_from_or_that_may_be_from_palm_oil_n":0,
+       "ingredients_hierarchy":[
+          "en:water",
+          "en:coconut-milk",
+          "en:fruit",
+          "en:coconut",
+          "en:sugar",
+          "en:soy-oil",
+          "en:oil",
+          "en:oil-and-vegetable-fat",
+          "en:vegetable-oil",
+          "en:peanut",
+          "en:nut",
+          "en:white sesame seed",
+          "en:tamarind paste",
+          "en:spice",
+          "en:including chili pepper",
+          "en:salt",
+          "en:modified-tapioca-starch",
+          "en:starch",
+          "en:modified-starch",
+          "en:tapioca-starch",
+          "en:shallot",
+          "en:vegetable",
+          "en:garlic",
+          "en:lemongrass",
+          "en:herb",
+          "en:citric acid and kaffir lime",
+          "en:tamarind"
+       ],
+       "countries_hierarchy":[
+          "en:united-states"
+       ],
+       "traces_tags":[
+ 
+       ],
+       "serving_quantity":30,
+       "update_key":"key_1559129056",
+       "additives_prev_original_tags":[
+ 
+       ],
+       "entry_dates_tags":[
+          "2017-03-10",
+          "2017-03",
+          "2017"
+       ]
+    },
+    "status":1
+ }
