@@ -17,7 +17,7 @@ We created a website as well as a mobile app to cater to all users across platfo
 
 ### Technologies and Languages Used:
 
-- HTML, CSS
+- HTML, CSS <img src="HTML5CSS3Logos.png"
 - Javascript
 - Java
 - JSBarcode
