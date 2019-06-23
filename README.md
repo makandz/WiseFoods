@@ -4,7 +4,7 @@ WiseFoods was created with the goal of addressing the issue of global food waste
 
 ### Some Features of Our App: 
  
-1. Scan barcodes codes of food products 
+1. Scan barcodes of food products 
 2. Record all scanned products in an inventory system
 3. Expiry date for each individually scanned product 
 4. Copy as a plain text to use. 
