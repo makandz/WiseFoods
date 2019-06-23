@@ -1,6 +1,6 @@
 # WiseFoods
 
-WiseFoods was created with the goal of addressing the issue of global food waste by empowering the consumer to make informed decisions. Accoring to CBC Canada in 2019, more than 50% of all food produced in Canada is lost or wasted. All of this wasted food could have gone towards communities in need. 
+WiseFoods was created with the goal of addressing the issue of global food waste by empowering the consumer to make informed decisions. According to CBC Canada in 2019, more than 50% of all food produced in Canada is lost or wasted. All of this wasted food could have gone towards communities in need. 
 
 ### Some Features of Our App: 
  
