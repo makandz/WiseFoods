@@ -17,9 +17,9 @@ We created a website as well as a mobile app to cater to all users across platfo
 
 ### Technologies and Languages Used:
 
-- Java
-- Javascript
 - HTML, CSS
+- Javascript
+- Java
 - JSBarcode
 - Barcode.js
 - Microsoft Azure Cognitive Services
