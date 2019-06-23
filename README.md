@@ -12,7 +12,7 @@ WiseFoods was created with the goal of addressing the issue of global food waste
 
 
 <img src="Screen_Shot_2019-06-23_at_10.08.46_AM.png" height="420" width="1200">
-
+<img src="unknown (1).png" height="500" width="920">
 
 
 #### Usages Library & Purpose ####
