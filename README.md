@@ -17,8 +17,8 @@ We created a website as well as a mobile app to cater to all users across platfo
 
 ### Technologies and Languages Used:
 
-- HTML, CSS <img src="badges/HTML5CSS3Logos.png" height="40" width="60">
-- Javascript
+- HTML, CSS <img src="badges/HTMLCSSbadge.png" height="25" width="45">
+- Javascript <img src="badges/JSbadge.png" height="25" width="20">
 - Java
 - JSBarcode
 - Barcode.js
